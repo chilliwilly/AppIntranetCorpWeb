@@ -1,7 +1,8 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Principal.Master" AutoEventWireup="true" CodeBehind="corporativo-form-preve.aspx.cs" Inherits="WebApplication2.html.corporativo_form_preve" %>
-<asp:Content ID="HeaderContent" ContentPlaceHolderID="head" runat="server">
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="corporativo-form-preve.aspx.cs" Inherits="AppWebIntranetCorp.html.corporativo_form_preve" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
-<asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+
 <h2>Formulario Prevencion de Riesgos Corporativo</h2>
 <p><a href="file:///\\Spool2\SitioWebGC\SitioWebCalidad\corporativo\formulariosdts\prevencionderiesgos\02700C00REG001-01 Ficha entrega de cargos.xls" target="_blank">FICHA PERSONAL DE CONTROL DE ENTREGA DE CARGOS</a></p>
 <p><a href="file:///\\Spool2\SitioWebGC\SitioWebCalidad\corporativo\formulariosdts\prevencionderiesgos\02700C00REG002-01 Comunicaciones.doc" target="_blank">COMUNICACIONES</a></p>

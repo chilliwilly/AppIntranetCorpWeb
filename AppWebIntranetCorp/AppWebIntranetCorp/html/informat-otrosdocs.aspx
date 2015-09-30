@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Principal.Master" AutoEventWireup="true" CodeBehind="informat-otrosdocs.aspx.cs" Inherits="WebApplication2.html.informat_otrosdocs" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="informat-otrosdocs.aspx.cs" Inherits="AppWebIntranetCorp.html.informat_otrosdocs" %>
 <asp:Content ID="HeaderContent" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">

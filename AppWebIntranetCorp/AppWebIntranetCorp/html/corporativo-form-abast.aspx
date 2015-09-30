@@ -1,8 +1,7 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Principal.Master" AutoEventWireup="true" CodeBehind="corporativo-form-abast.aspx.cs" Inherits="WebApplication2.html.corporativo_form_abast" %>
-<asp:Content ID="HeaderContent" ContentPlaceHolderID="head" runat="server">
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="corporativo-form-abast.aspx.cs" Inherits="AppWebIntranetCorp.html.corporativo_form_abast" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
-<asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
-<h2>Formulario Abastecimiento Corporativo</h2>
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server"><h2>Formulario Abastecimiento Corporativo</h2>
 <p><a href="file:///\\Spool2\SitioWebGC\SitioWebCalidad\corporativo\formulariosdts\abastecimiento\02500C00REG001-01 Solicitud de caja chica.doc" target="_blank">SOLICITUD DE CAJA CHICA</a></p>
 <p><a href="file:///\\Spool2\SitioWebGC\SitioWebCalidad\corporativo\formulariosdts\abastecimiento\02500C00REG002-01 Solicitud de fondos a rendir.doc" target="_blank">SOLICITUD DE FONDOS A RENDIR</a></p>
 <p><a href="file:///\\Spool2\SitioWebGC\SitioWebCalidad\corporativo\formulariosdts\abastecimiento\02500C00REG003-01 Solicitud de tarjeta de credito.doc" target="_blank">SOLICITUD DE TARJETA DE CREDITO</a></p>

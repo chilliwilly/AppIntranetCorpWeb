@@ -1,7 +1,7 @@
-﻿<%@ Page Title="Corporativo - Formulario Corporativo" Language="C#" MasterPageFile="~/Principal.Master" AutoEventWireup="true" CodeBehind="corporativo-form-corp.aspx.cs" Inherits="WebApplication2.html.corporativo_form_corp" %>
+﻿<%@ Page Title="Corporativo - Formulario Corporativo" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="corporativo-form-corp.aspx.cs" Inherits="AppWebIntranetCorp.html.corporativo_form_corp" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
-<asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
 
 
 <h2>Corporativo - Formulario Corporativo</h2>

@@ -7,7 +7,7 @@
 // </generado automáticamente>
 //------------------------------------------------------------------------------
 
-namespace WebApplication2.html {
+namespace AppWebIntranetCorp.html.html {
     
     
     public partial class abastec_noticias {

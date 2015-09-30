@@ -1,7 +1,7 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Principal.Master" AutoEventWireup="true" CodeBehind="corporativo-form-rrhh.aspx.cs" Inherits="WebApplication2.html.corporativo_form_rrhh" %>
-<asp:Content ID="HeaderContent" ContentPlaceHolderID="head" runat="server">
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="corporativo-form-rrhh.aspx.cs" Inherits="AppWebIntranetCorp.html.corporativo_form_rrhh" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
-<asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
 <h2>Formulario RRHH Corporativo</h2>
 <p><a href="file:///\\Spool2\SitioWebGC\SitioWebCalidad\corporativo\formulariosdts\rrhh\02200C00REG001-01 Presolicitud de capacitaci¢n.doc" target="_blank">PRE-SOLICITUD DE CAPACITACION </a></p>
 <p><a href="file:///\\Spool2\SitioWebGC\SitioWebCalidad\corporativo\formulariosdts\rrhh\02200C00REG002-01 Solicitud de actividad de capacitacion.doc" target="_blank">SOLICITUD DE ACTIVIDAD DE CAPACITACION O DESARROLLO PROFESIONAL</a></p>

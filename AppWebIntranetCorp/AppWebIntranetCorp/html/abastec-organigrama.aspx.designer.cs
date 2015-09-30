@@ -7,7 +7,7 @@
 // </generado automáticamente>
 //------------------------------------------------------------------------------
 
-namespace WebApplication2.html {
+namespace AppWebIntranetCorp {
     
     
     public partial class abastec_organigrama {

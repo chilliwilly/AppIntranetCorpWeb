@@ -1,7 +1,7 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Principal.Master" AutoEventWireup="true" CodeBehind="corporativo-procedimientos.aspx.cs" Inherits="WebApplication2.html.corporativo_procedimientos" %>
-<asp:Content ID="HeaderContent" ContentPlaceHolderID="head" runat="server">
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="corporativo-procedimientos.aspx.cs" Inherits="AppWebIntranetCorp.html.corporativo_procedimientos" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
-<asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
 <h2>Procedimientos Corporativo</h2>
 <p><a href="file:///\\Spool2\SitioWebGC\SitioWebCalidad\corporativo\procedimientoscomunes\01000C00PRO002-01 Gestion de riesgos negocios.pdf" target="_blank">PROCEDIMIENTO DE GESTIÓN DE RIESGOS PROYECTOS DE NEGOCIOS</a></p>
 <p><a href="file:///\\Spool2\SitioWebGC\SitioWebCalidad\corporativo\procedimientoscomunes\5010PRO1470-01 Prueba de estaciones de soldar.pdf" target="_blank">Procedimiento de Pruebas de las estaciones de Soldar</a></p>

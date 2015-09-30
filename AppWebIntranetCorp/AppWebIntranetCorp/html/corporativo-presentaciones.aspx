@@ -1,7 +1,7 @@
-﻿<%@ Page Title="Corporativo - Presentaciones" Language="C#" MasterPageFile="~/Principal.Master" AutoEventWireup="true" CodeBehind="corporativo-presentaciones.aspx.cs" Inherits="WebApplication2.html.corporativo_presentaciones" %>
-<asp:Content ID="HeaderContent" ContentPlaceHolderID="head" runat="server">
+﻿<%@ Page Title="Corporativo - Presentaciones" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="corporativo-presentaciones.aspx.cs" Inherits="AppWebIntranetCorp.html.corporativo_presentaciones" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
-<asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
 <html>
 <h2>Corporativo - Presentaciones</h2>
 

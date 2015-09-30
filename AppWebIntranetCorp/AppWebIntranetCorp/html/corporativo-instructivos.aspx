@@ -1,7 +1,7 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Principal.Master" AutoEventWireup="true" CodeBehind="corporativo-instructivos.aspx.cs" Inherits="WebApplication2.html.corporativo_instructivos" %>
-<asp:Content ID="HeaderContent" ContentPlaceHolderID="head" runat="server">
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="corporativo-instructivos.aspx.cs" Inherits="AppWebIntranetCorp.html.corporativo_instructivos" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
-<asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
 <h2>Instructivos Corporativo</h2>
 <p><a href="file:///\\Spool2\SitioWebGC\SitioWebCalidad\corporativo\instructivoscomunes\03200C00ITR020-01 Soldadura libre de plomo.pdf" target="_blank">Instructivo de soldadura libre de plomo</a></p>
 <p><a href="file:///\\Spool2\SitioWebGC\SitioWebCalidad\corporativo\instructivoscomunes\03200C00ITR021-01 Evaluacion de eficacia de capacitacion.pdf" target="_blank">Evaluacion  de eficacia de capacitación </a></p>

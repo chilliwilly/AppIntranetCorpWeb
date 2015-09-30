@@ -7,7 +7,7 @@
 // </generado automáticamente>
 //------------------------------------------------------------------------------
 
-namespace WebApplication2.html {
+namespace AppWebIntranetCorp.html {
     
     
     public partial class preven_manuales {

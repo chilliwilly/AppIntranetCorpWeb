@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace WebApplication2.html
+namespace AppWebIntranetCorp.html
 {
     public partial class corporativo_form_rrhh : System.Web.UI.Page
     {

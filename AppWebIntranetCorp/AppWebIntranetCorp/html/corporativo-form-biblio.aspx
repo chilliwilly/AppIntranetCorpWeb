@@ -1,7 +1,7 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Principal.Master" AutoEventWireup="true" CodeBehind="corporativo-form-biblio.aspx.cs" Inherits="WebApplication2.html.corporativo_form_biblio" %>
-<asp:Content ID="HeaderContent" ContentPlaceHolderID="head" runat="server">
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="corporativo-form-biblio.aspx.cs" Inherits="AppWebIntranetCorp.html.corporativo_form_biblio" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
-<asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
 <h2>Formulario Biblioteca Corporativo</h2>
 <p><a href="file:///\\Spool2\SitioWebGC\SitioWebCalidad\corporativo\formulariosdts\biblioteca\03400C00REG001-01 Ingreso de documentaci¢n.doc" target="_blank">INGRESO DE DOCUMENTACION</a></p>
 <p><a href="file:///\\Spool2\SitioWebGC\SitioWebCalidad\corporativo\formulariosdts\biblioteca\03400C00REG002-01 Solicitud investigaci¢n OOTT.doc" target="_blank">SOLICITUD DE INVESTIGACION DE ORDENES TECNICAS</a></p>

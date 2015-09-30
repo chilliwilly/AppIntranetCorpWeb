@@ -1,8 +1,7 @@
-﻿<%@ Page Title="Noticias Contabilidad" Language="C#" MasterPageFile="~/Principal.Master" AutoEventWireup="true" CodeBehind="contab-noticias.aspx.cs" Inherits="WebApplication2.html.contab_noticias" %>
-<asp:Content ID="HeaderContent" ContentPlaceHolderID="head" runat="server">
+﻿<%@ Page Title="Noticias Contabilidad" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="contab-noticias.aspx.cs" Inherits="AppWebIntranetCorp.html.contab_noticias" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
-<asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
-<html>
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server"><html>
 <!--MODIFICAR SOLO LO QUE ESTA ENTRE EL TEXTO EN VERDE -->
 
 <h2>Noticias Contabilidad</h2>

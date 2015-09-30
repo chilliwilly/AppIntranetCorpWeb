@@ -1,7 +1,8 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Principal.Master" AutoEventWireup="true" CodeBehind="corporativo-form-gcalidad.aspx.cs" Inherits="WebApplication2.html.corporativo_form_gcalidad" %>
-<asp:Content ID="HeaderContent" ContentPlaceHolderID="head" runat="server">
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="corporativo-form-gcalidad.aspx.cs" Inherits="AppWebIntranetCorp.html.corporativo_form_gcalidad" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
-<asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+
 <h2>Formulario G. Calidad Corporativo</h2>
 <p><asp:HyperLink ID="id01" runat="server" NavigateUrl="~/corporativo/formulariosdts/garantiadecalidad/03000C00REG001-01 ACCIONES CORRECTIVAS O PREVENTIVAS.doc" target="_blank">03000C00REG001-01 Acciones Correctivas y/o Preventivas</asp:HyperLink></p>
 <p><asp:HyperLink ID="id02" runat="server" NavigateUrl="~/corporativo/formulariosdts/garantiadecalidad/03000C00REG003-01 Informe de material no conforme.doc" target="_blank">03000C00REG003-01 Informe de material no conforme</asp:HyperLink></p>

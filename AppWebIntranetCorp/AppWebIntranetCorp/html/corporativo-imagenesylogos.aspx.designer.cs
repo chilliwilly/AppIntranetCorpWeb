@@ -7,7 +7,7 @@
 // </generado automáticamente>
 //------------------------------------------------------------------------------
 
-namespace WebApplication2.html {
+namespace AppWebIntranetCorp.html {
     
     
     public partial class corporativo_imagenesylogos {

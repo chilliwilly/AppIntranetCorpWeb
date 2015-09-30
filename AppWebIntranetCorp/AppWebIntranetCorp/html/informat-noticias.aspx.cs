@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace WebApplication2.html
+namespace WebApplAppWebIntranetCorpication2.html
 {
     public partial class informat_noticias : System.Web.UI.Page
     {

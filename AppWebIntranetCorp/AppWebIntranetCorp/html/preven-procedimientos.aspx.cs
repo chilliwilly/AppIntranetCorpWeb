@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace WebApplication2.html
+namespace AppWebIntranetCorp.html
 {
     public partial class preven_procedimientos : System.Web.UI.Page
     {

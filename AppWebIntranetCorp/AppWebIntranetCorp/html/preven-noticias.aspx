@@ -1,7 +1,7 @@
-﻿<%@ Page Title="Noticias Prevencion de Riesgos" Language="C#" MasterPageFile="~/Principal.Master" AutoEventWireup="true" CodeBehind="preven-noticias.aspx.cs" Inherits="WebApplication2.html.preven_noticias" %>
-<asp:Content ID="HeaderContent" ContentPlaceHolderID="head" runat="server">
+﻿<%@ Page Title="Noticias Prevencion de Riesgos" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="preven-noticias.aspx.cs" Inherits="AppWebIntranetCorp.html.preven_noticias" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
-<asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
 <html>
 <!--MODIFICAR SOLO LO QUE ESTA ENTRE EL TEXTO EN VERDE -->
 
